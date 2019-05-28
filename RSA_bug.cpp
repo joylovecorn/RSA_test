@@ -8,7 +8,7 @@
 #include <string.h>
 #include <string>
 #include <stdio.h>
-#import <stdlib.h>
+#import <stdlib.h>//should not use import 
 
 
 bool isPrime(long int prime);
